@@ -18,247 +18,247 @@ let products = [
 
         id: 1,
         name: 'Mirchi Bajji',
-        images2: '1.PNG',
+        images2: '1.png',
         price: 3.99
     },
     {
         id: 2,
         name: 'Peanut Masala',
-        images2: '2.PNG',
+        images2: '2.png',
         price: 6.99
     },
     {
         id: 3,
         name: 'Crispy Corn',
-        images2: '3.PNG',
+        images2: '3.png',
         price: 7.99
     },
     {
         id: 4,
         name: 'Chilli Paneer',
-        images2: '4.PNG',
+        images2: '4.png',
         price: 10.99
     },
     {
         id: 5,
         name: 'Baby Corn Manchurian',
-        images2: '5.PNG',
+        images2: '5.png',
         price: 10.99
     },
       {
         id: 6,
         name: 'Egg Bajji',
-        images2: '6.PNG',
+        images2: '6.png',
         price: 5.99
     },
      {
         id: 7,
         name: 'Chicken Lollipop Dry',
-        images2: '7.PNG',
+        images2: '7.png',
         price: 9.99
     },
      {
         id: 8,
         name: 'Chicken Lollipop Wet',
-        images2: '8.PNG',
+        images2: '8.png',
         price: 10.99
     },
      {
         id: 9,
         name: 'Chicken Manchurian',
-        images2: '9.PNG',
+        images2: '9.png',
         price: 11.99
     },
      {
         id: 10,
         name: 'Chilli Chicken',
-        images2: '9.PNG',
+        images2: '9.png',
         price: 11.99
     },
      {
         id: 11,
         name: 'Peddapuram Fish Pakodi',
-        images2: '10.PNG',
+        images2: '10.png',
         price: 12.99
     },
      {
         id: 12,
         name: 'Rayalaseema Royyala Vepudu',
-        images2: '11.PNG',
+        images2: '11.png',
         price: 12.99
     },
      {
         id: 13,
         name: ' Vulavacharu Kodi Vepudu',
-        images2: '12.PNG',
+        images2: '12.png',
         price: 13.99
     },
      {
         id: 14,
         name: 'Noodles Veg',
-        images2: '14.PNG',
+        images2: '14.png',
         price: 10.99
     },
      {
         id: 15,
         name: 'Noodles Egg',
-        images2: '14.PNG',
+        images2: '14.png',
         price: 11.99
     },
      {
         id: 16,
         name: 'Noodles Chicken',
-        images2: '14.PNG',
+        images2: '14.png',
         price: 12.99
     },
      {
         id: 17,
         name: 'Schezwan Noodles Veg',
-        images2: '17.PNG',
+        images2: '17.png',
         price: 10.99
     },
      {
         id: 18,
         name: 'Schezwan Noodles Egg',
-        images2: '17.PNG',
+        images2: '17.png',
         price: 11.99
     },
      {
         id: 19,
         name: 'Schezwan Noodles Chicken',
-        images2: '17.PNG',
+        images2: '17.png',
         price: 12.99
     },
      {
         id: 20,
         name: 'Fried Rice Veg',
-        images2: '20.PNG',
+        images2: '20.png',
         price: 10.99
     },
      {
         id: 21,
         name: 'Fried Rice Egg',
-        images2: '20.PNG',
+        images2: '20.png',
         price: 11.99
     },
      {
         id: 22,
         name: 'Fried Rice Chicken',
-        images2: '20.PNG',
+        images2: '20.png',
         price: 12.99
     },
      {
         id: 23,
         name: 'Schezwan Friend Rice',
-        images2: '23.PNG',
+        images2: '23.png',
         price: 10.99
     },
      {
         id: 24,
         name: 'Schezwan Friend Rice Egg',
-        images2: '23.PNG',
+        images2: '23.png',
         price: 11.99
     },
      {
         id: 25,
         name: 'Schezwan Friend Rice Chicken',
-        images2: '23.PNG',
+        images2: '23.png',
         price: 12.99
     },
      {
         id: 26,
         name: 'Idly',
-        images2: '26.PNG',
+        images2: '26.png',
         price: 4.99
     },
      {
         id: 27,
         name: 'Ghee Karam Idly',
-        images2: '27.PNG',
+        images2: '27.png',
         price: 6.99
     },
      {
         id: 28,
         name: 'Podikaram Ghee Chitti Idly',
-        images2: '28.PNG',
+        images2: '28.png',
         price: 6.99
     },
      {
         id: 29,
         name: 'Sambar Idly',
-        images2: '29.PNG',
+        images2: '29.png',
         price: 6.99
     },
      {
         id: 30,
         name: 'Kobbari Karam Ghee Idly',
-        images2: '30.PNG',
+        images2: '30.png',
         price: 6.99
     },
      {
         id: 31,
         name: 'Dosa',
-        images2: '31.PNG',
+        images2: '31.png',
         price: 6.99
     },
      {
         id: 32,
         name: 'Masala Dosa',
-        images2: '32.PNG',
+        images2: '32.png',
         price: 8.99
     },
      {
         id: 33,
         name: 'Egg Dosa',
-        images2: '33.PNG',
+        images2: '33.png',
         price: 8.99
     },
      {
         id: 34,
         name: 'Double Egg Dosa',
-        images2: '33.PNG',
+        images2: '33.png',
         price: 10.99
     },
      {
         id: 35,
         name: 'Ghee Karam Dosa',
-        images2: '35.PNG',
+        images2: '35.png',
         price: 8.99
     },
      {
         id: 36,
         name: 'Chicken Shawarma',
-        images2: '36.PNG',
+        images2: '36.png',
         price: 9.99
     },
      {
         id: 37,
         name: 'Butter Milk',
-        images2: '37.PNG',
+        images2: '37.png',
         price: 2.99
     },
      {
         id: 38,
         name: 'Sweet Lassi',
-        images2: '38.PNG',
+        images2: '38.png',
         price: 3.99
     },
      {
         id: 39,
         name: 'Mango Lassi',
-        images2: '39.PNG',
+        images2: '39.png',
         price: 4.99
     },
      {
         id: 40,
         name: 'Indian Soft Drinks',
-        images2: '40.PNG',
+        images2: '40.png',
         price: 2.99
     },
     {
         id: 41,
         name: 'Soft Drinks',
-        images2: '41.PNG',
+        images2: '41.png',
         price: 1.99
     }
 ];
